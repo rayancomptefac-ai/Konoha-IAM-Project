@@ -1,5 +1,4 @@
 package org.sdk.APIREST;
-import java.util.UUID;
 
 public class Utilisateurs {
     public String id;
@@ -14,11 +13,12 @@ public class Utilisateurs {
     }
 
     // Ton constructeur actuel pour créer tes ninjas manuellement
-    public Utilisateurs(String nom, String departement, String role) {
-        this.id = UUID.randomUUID().toString();
-        this.nom = nom;
-        this.departement = departement;
-        this.estActif = true; 
-        this.role = (role == null || role.isEmpty()) ? "USER" : role; 
+    public Utilisateurs(String id, String nom, String departement, String password, String role) {
+       this.id = id;
+    this.nom = nom;
+    this.departement = departement;
+    this.password = password;
+    this.role = role;
+    this.estActif = true;
     }
 }
