@@ -14,3 +14,8 @@
 [18/01/2026 07:46:36 Création du ninja : Naruto]
 [18/01/2026 08:14:20 Création du ninja : Madara]
 [18/01/2026 08:17:13 Suppression du ninja : Izuna]
+[19/01/2026 08:33:03] | NINJA: admin | ACTION: LOGIN_FAIL | DETAILS: Mauvais mot de passe
+[19/01/2026 08:33:08] | NINJA: admin | ACTION: LOGIN_FAIL | DETAILS: Mauvais mot de passe
+[19/01/2026 08:33:25] | NINJA: admin | ACTION: LOGIN_FAIL | DETAILS: Mauvais mot de passe
+[19/01/2026 08:33:34] | NINJA: admin | ACTION: LOGIN_FAIL | DETAILS: Mauvais mot de passe
+[19/01/2026 08:33:43] | NINJA: Admin | ACTION: LOGIN | DETAILS: Succès

@@ -7,6 +7,7 @@ public class Utilisateurs {
     public boolean estActif;
     public String password;
     public String role;
+    public String refreshtoken;
 
     // --- LE CONSTRUCTEUR VIDE (Indispensable pour Jackson / JSON) ---
     public Utilisateurs() {
